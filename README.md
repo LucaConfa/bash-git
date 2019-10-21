@@ -1,5 +1,5 @@
 # bash-git
 
-.git-prompt.sh in your home. Just rename the attached file to .git-prompt.sh and move it to ~/
+Copy .git-prompt.sh in your home.
 
-copy content of bashrc file into ~/.bashrc
+copy content of bashrc file into ~/.bashrc or ~/.bash_profile
